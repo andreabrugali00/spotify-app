@@ -1,8 +1,14 @@
 /backend/node_modules
 <<<<<<< HEAD
+<<<<<<< HEAD
 /backend/.env
 
 node_modules
 =======
 /backend/.env
 >>>>>>> c7da968 (Prova)
+=======
+/backend/.env
+
+node_modules
+>>>>>>> 590777b (Backend e Frontend)
