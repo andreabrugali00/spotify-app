@@ -1,6 +1,7 @@
 /backend/node_modules
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /backend/.env
 
 node_modules
@@ -12,3 +13,8 @@ node_modules
 
 node_modules
 >>>>>>> 590777b (Backend e Frontend)
+=======
+/backend/.env
+
+node_modules
+>>>>>>> 590777b43d03862103daef3b6836a8e3da82e881
